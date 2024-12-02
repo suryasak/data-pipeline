@@ -1,4 +1,5 @@
 Data Engineering Pipeline Project
+
 This repository contains an ETL (Extract, Transform, Load) pipeline project that processes e-commerce transaction data. The project demonstrates the use of Python, Apache Airflow, and SQLite to handle raw data, clean and transform it, and load it into a database for analysis.
 
 Features
